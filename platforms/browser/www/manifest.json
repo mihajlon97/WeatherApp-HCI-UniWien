@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Yawa Weather App",
+  "short_name": "Yawa Weather App",
+  "version": "com.phonegap.helloworld",
+  "description": "Hello World sample application that responds to the deviceready event.",
+  "icons": [],
+  "start_url": "index.html"
+}
